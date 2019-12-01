@@ -1,6 +1,7 @@
 #ifndef LAMBDA_LANCZOS_H_
 #define LAMBDA_LANCZOS_H_
 
+#include <iostream>
 #include <vector>
 #include <functional>
 #include <cassert>
